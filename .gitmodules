@@ -1,0 +1,12 @@
+[submodule "cloud"]
+	path = cloud
+	url = https://github.com/easonnn03/cloud.git
+[submodule "fyp_frontend"]
+	path = fyp_frontend
+	url = https://github.com/easonnn03/fyp_frontend.git
+[submodule "fyp_backend"]
+	path = fyp_backend
+	url = https://github.com/easonnn03/fyp_backend.git
+[submodule "easonnn03.github.io"]
+	path = easonnn03.github.io
+	url = https://github.com/easonnn03/easonnn03.github.io.git
