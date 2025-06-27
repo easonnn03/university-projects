@@ -10,3 +10,6 @@
 [submodule "easonnn03.github.io"]
 	path = easonnn03.github.io
 	url = https://github.com/easonnn03/easonnn03.github.io.git
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/easonnn03/blockchain.git
